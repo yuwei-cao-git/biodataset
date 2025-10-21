@@ -5,17 +5,20 @@ nav_order: 2
 ---
 
 ### Download the paper
-[paper](https://isprs-archives.copernicus.org/articles/XLVIII-1-W3-2023/31/2023/).
+[paper: A 3D INDOOR-OUTDOOR BENCHMARK DATASET FOR LoD3 BUILDING POINT CLOUD SEMANTIC SEGMENTATION](https://isprs-archives.copernicus.org/articles/XLVIII-1-W3-2023/31/2023/).
 
 ----
 ### Download the dataset
-The official implementation will soon be published in [Zenodo](10.5281/zenodo.17400553).
+<img width="2500" height="1000" alt="image" src="https://github.com/user-attachments/assets/cb5aec84-907e-4bb2-8f79-cc068e936380" />
+([10.5281/zenodo.17400553](https://doi.org/10.5281/zenodo.17400553)).
 
 ----
 
-### Bibtex
+### Citation
+
 #### Dataset
 10.5281/zenodo.17400553
+
 #### Paper
 ```
 @article{cao_3d_2023,
@@ -25,7 +28,7 @@ The official implementation will soon be published in [Zenodo](10.5281/zenodo.17
 	issn = {2194-9034},
 	url = {https://isprs-archives.copernicus.org/articles/XLVIII-1-W2-2023/147/2023/},
 	doi = {10.5194/isprs-archives-XLVIII-1-W2-2023-147-2023},
-	abstract = {Abstract. Both machine learning (ML) and deep learning (DL) algorithms require high-quality training samples as well as precise and thorough annotations in order to work effectively. The 3D building indoor-outdoor dataset (BIO dataset), which is a highly accurate, high level of detail, and high coverage dataset for 3D building point cloud and mesh semantic segmentation, is established as a canonical benchmark dataset. It contains 100 building models, in which building structural elements are annotated into 11 semantic categories. Each building in this dataset has an average of 75,587 triangular faces, and the total area of the dataset is 481,769 square meters. Furthermore, semantic segmentation of the dataset was carried out using the Random Forest ML algorithm to verify the dataset’s accessibility. A weighted F1 score of 96.64\% was obtained with 10\% of the segments of each building randomly chosen as training data. For applications involving building geometry data, the BIO dataset can support a broad class of recently developed ML and DL methodologies.},
+	abstract = {Abstract. Both machine learning (ML) and deep learning (DL) algorithms require high-quality training samples as well as precise and thorough annotations in order to work effectively. The 3D building indoor-outdoor dataset (BIO dataset), which is a highly accurate, high-level of detail, and high coverage dataset for 3D building point cloud and mesh semantic segmentation, is established as a canonical benchmark dataset. It contains 100 building models, in which building structural elements are annotated into 11 semantic categories. Each building in this dataset has an average of 75,587 triangular faces, and the total area of the dataset is 481,769 square meters. Furthermore, semantic segmentation of the dataset was carried out using the Random Forest ML algorithm to verify the dataset’s accessibility. A weighted F1 score of 96.64\% was obtained with 10\% of the segments of each building randomly chosen as training data. For applications involving building geometry data, the BIO dataset can support a broad class of recently developed ML and DL methodologies.}
 	language = {en},
 	urldate = {2025-10-20},
 	journal = {The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
@@ -39,9 +42,8 @@ The official implementation will soon be published in [Zenodo](10.5281/zenodo.17
 
 ### Contributing
 
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/biodatset/biodataset/#contributing).
+When contributing to this repository, please first discuss the change you wish to make via issue, or any other method, with the owners of this repository before making a change.
 
 ### LICENSE
 
-This dataset is distributed by an [MIT license](https://github.com/biodataset/biodataset/blob/main/LICENSE)https://github.com/biodataset/biodataset/blob/main/LICENSE)
+This dataset is distributed by an [MIT license](https://github.com/biodataset/biodataset/blob/main/LICENSE)
