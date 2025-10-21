@@ -9,7 +9,6 @@ nav_order: 2
 
 ----
 ### Download the dataset
-<img width="2500" height="1000" alt="image" src="https://github.com/user-attachments/assets/cb5aec84-907e-4bb2-8f79-cc068e936380" />
 ([10.5281/zenodo.17400553](https://doi.org/10.5281/zenodo.17400553)).
 
 ----
