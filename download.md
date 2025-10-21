@@ -9,7 +9,7 @@ nav_order: 2
 
 ----
 ### Download the dataset
-([10.5281/zenodo.17400553](https://doi.org/10.5281/zenodo.17400553)).
+[10.5281/zenodo.17400553](https://doi.org/10.5281/zenodo.17400553).
 
 ----
 
