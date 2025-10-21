@@ -4,21 +4,21 @@ title: Download
 nav_order: 2
 ---
 
-### Download the paper
+# Download the paper
 [paper: A 3D INDOOR-OUTDOOR BENCHMARK DATASET FOR LoD3 BUILDING POINT CLOUD SEMANTIC SEGMENTATION](https://isprs-archives.copernicus.org/articles/XLVIII-1-W3-2023/31/2023/).
 
 ----
-### Download the dataset
+# Download the dataset
 [10.5281/zenodo.17400553](https://doi.org/10.5281/zenodo.17400553).
 
 ----
 
-### Citation
+# Citation
 
-#### Dataset
+## Dataset
 10.5281/zenodo.17400553
 
-#### Paper
+## Paper
 ```
 @article{cao_3d_2023,
 	title = {A {3D} {BUILDING} {INDOOR}-{OUTDOOR} {BENCHMARK} {FOR} {SEMANTIC} {SEGMENTATION}},
@@ -39,10 +39,10 @@ nav_order: 2
 ```
 ----
 
-### Contributing
+# Contributing
 
 When contributing to this repository, please first discuss the change you wish to make via issue, or any other method, with the owners of this repository before making a change.
 
-### LICENSE
+# LICENSE
 
 This dataset is distributed by an [MIT license](https://github.com/biodataset/biodataset/blob/main/LICENSE)
