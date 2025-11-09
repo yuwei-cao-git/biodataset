@@ -10,11 +10,12 @@ nav_order: 2
 ----
 # Download the dataset
 The BIO dataset is openly available on **Zenodo**:
+
 [10.5281/zenodo.17400553](https://doi.org/10.5281/zenodo.17400553).
 
 ----
 ## File Structure Overview
-
+```
 BIO/
 ├─ Train/
 │ ├─ Industrial_01
@@ -28,7 +29,8 @@ BIO/
 │ ├─ ...
 ├─ Test/
 │ ├─ ...
-
+```
+----
 # Citation
 
 ## Dataset
