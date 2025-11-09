@@ -44,3 +44,8 @@ This dataset enables the training and evaluation of **deep learning** and **mach
 
 If you use BIO dataset in your research, please cite:
 Cao, Y. and Scaioni, M.: A 3D INDOOR-OUTDOOR BENCHMARK DATASET FOR LoD3 BUILDING POINT CLOUD SEMANTIC SEGMENTATION, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-1/W3-2023, 31–37, https://doi.org/10.5194/isprs-archives-XLVIII-1-W3-2023-31-2023, 2023.
+
+## 📬 Contact / Contribute
+
+We welcome improvements, feedback, and contributions from the research community.
+Please contact us via Issues
