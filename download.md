@@ -9,9 +9,25 @@ nav_order: 2
 
 ----
 # Download the dataset
+The BIO dataset is openly available on **Zenodo**:
 [10.5281/zenodo.17400553](https://doi.org/10.5281/zenodo.17400553).
 
 ----
+## File Structure Overview
+
+BIO/
+├─ Train/
+│ ├─ Industrial_01
+│ ├─ ├─ industrial_01_labelled.ply (labelled point cloud)
+│ ├─ ├─ industrial_01.ply (Mesh)
+│ ├─ ├─ industrial_01.obj (non-labelled 3d model)
+│ ├─ ├─ industrial_01.mtl (materials)
+│ ├─ ├─ industrial_01 (textures)
+│ ├─ ...
+├─ Val/
+│ ├─ ...
+├─ Test/
+│ ├─ ...
 
 # Citation
 
@@ -44,5 +60,5 @@ nav_order: 2
 When contributing to this repository, please first discuss the change you wish to make via issue, or any other method, with the owners of this repository before making a change.
 
 # LICENSE
-
 This dataset is distributed by an [MIT license](https://github.com/biodataset/biodataset/blob/main/LICENSE)
+You may use, modify, and redistribute **with citation**.
