@@ -15,9 +15,21 @@ This dataset enables the training and evaluation of **deep learning** and **mach
 - Urban modelling and simulation
 - Energy efficiency and structural analysis
 
-> If you use this dataset, please cite the paper (see below).
-> 
 ----
+## 🔍 Key Features
+
+| Feature | Description |
+|--------|-------------|
+| Total Buildings | **100** (Residential, Commercial, Industrial, Institutional) |
+| Representation | Polygonal Mesh + Uniform Dense Point Cloud |
+| Point Count | ~3.5 million points per building |
+| Semantic Classes | 11 structural classes (CityGML + IFC based) |
+| LoD Level | LoD3 (with optional abstraction to LoD2 / LoD1) |
+| File Formats | `.ply`, `.obj`, `.mtl`, `.stl` |
+| Splits Provided | Train/Validation/Test |
+
+----
+
 ## Some examples of our dataset
 
 ![Alt text](imgs/BIO_dataset_overview.jpeg "Some examples of the BIO dataset")
@@ -28,4 +40,7 @@ This dataset enables the training and evaluation of **deep learning** and **mach
 ![Alt text](imgs/total_class_dist.svg "Categories statistic of the BIO dataset")
 
 
+## 📄 Citation
 
+If you use BIO dataset in your research, please cite:
+Cao, Y. and Scaioni, M.: A 3D INDOOR-OUTDOOR BENCHMARK DATASET FOR LoD3 BUILDING POINT CLOUD SEMANTIC SEGMENTATION, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-1/W3-2023, 31–37, https://doi.org/10.5194/isprs-archives-XLVIII-1-W3-2023-31-2023, 2023.
