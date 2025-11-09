@@ -12,7 +12,7 @@ nav_order: 2
 |---------|-------|-------|
 | Residential | 25 | Houses, apartments, villas |
 | Commercial | 25 | Offices, retail, shops |
-| Industrial | 25 | Warehouses, plants |
+| Industrial | 25 | Warehouses, factories |
 | Institutional | 25 | Schools, hospitals, public service buildings |
 
 ---
